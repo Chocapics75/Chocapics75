@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Me llamo Rober y actualmente vivo en Madrid, España.</h2>
+<h2 align="center">Hola 👋! Me llamo Rober y actualmente vivo en Madrid, España.</h2>
 
 ###
 
